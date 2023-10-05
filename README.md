@@ -22,7 +22,7 @@ Here is a link of the website:
 
 ## Credits
 
-N/A
+Used starter code from © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 
 ## License
 
